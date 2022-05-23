@@ -2,4 +2,4 @@
 Repositório riado para o desafio de projeto.
 
 ## Lins Úteis
-[Sintaxe Básica Marckdown] (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Marckdown](https://www.markdownguide.org/basic-syntax/)
